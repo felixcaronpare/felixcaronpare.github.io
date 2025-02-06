@@ -12,10 +12,16 @@ outputs:
     - "HTML"
     - "RSS"
 
-Paginate: 3
+pagination:
+  pagerSize: 3
+
 enableRobotsTXT: true
-# disqusShortname: your-disqus-shortname
-# googleAnalytics: G-MEASUREMENT_ID
+
+#services:
+#googleAnalytics:
+#id: G-MEASUREMENT_ID
+#disqus:
+#shortname: your-disqus-shortname
 
 markup:
   goldmark:
@@ -113,8 +119,8 @@ params:
     disableSearch: false
     # searchPlaceholder: "Search"
     stickyNavBar:
-      enable : true
-      showOnScrollUp : true
+      enable: true
+      showOnScrollUp: true
     enableSeparator: false
     menus:
       disableAbout: false
