@@ -227,7 +227,7 @@ params:
     # title: "Custom Name"
     items:
       - title: Ugram
-        content: AWS hosted single-page application similar to instagram built with industry standard technologies
+        content: An AWS hosted single-page application similar to instagram built with industry standard technologies
         image: /images/ugram/UGram1.4501738010288294de1a.png
         # featured:
         #   name: Demo
@@ -245,7 +245,7 @@ params:
         # links:
 
       - title: Ufood
-        content: A web application built to search and review restaurants, building a frontend and RESTful API on an existing backend and implementing google map embeds.
+        content: A web application made to search and review restaurants, building a frontend and RESTful API on an existing backend and implementing google map embeds.
         image: /images/ufood/UFood1.89dd8bfdcf1ebb3f0baa.png
         featured:
           name: View the source code
