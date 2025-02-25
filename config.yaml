@@ -172,12 +172,10 @@ params:
       enable: true
       title: "Here are a few of the technologies that I have enjoyed working with recently:"
       items:
-        - "Cloud-native infrastructure: Docker, Kubernetes, Terraform, AWS, Azure"
-        - "AI/MLOps: Python, Azure ML, Tensorflow, MLflow"
-        - "Frontend : React, Vue, Typescript, Django (Python)"
-        - "Backend : Node.JS, Golang, NestJS, gRPC"
-        - "Game dev: Unreal Engine 5, C++, Unity, Protocol Buffers"
-        - "Data: Pandas, Numpy, Matplotlib"
+        - "**Cloud infrastructure**: Docker, Kubernetes, Terraform, AWS, Azure"
+        - "**AI/MLOps**: Python, Azure ML, Tensorflow, MLflow"
+        - "**Frontend** : React, Vue, Typescript, Django/Python"
+        - "**Backend** : Node.JS, Golang, gRPC/protocol buffers"
 
   # Experience
   experience:
@@ -261,6 +259,20 @@ params:
           - icon: fab fa-github
             url: https://github.com/felixcaronpare/Ufood
 
+      - title: Vitae Accounting Website
+        content: A website built for the accounting company "placeholder"
+        image: /images/landscape-placeholder.svg
+        featured:
+          name: View website
+          link: https://github.com/felixcaronpare/Ufood
+        badges:
+          - "Frontend"
+          - "Web Development"
+          - "Javascript"
+          - "VueJS"
+          - "HTML/CSS"
+          - "Google Maps Javascript API"
+
       # - title: Hugo Profile V2
       #   content: A clean and simple Hugo template for personal portfolio and blog.
       #   image: /images/projects/profile2.jpg
@@ -303,7 +315,7 @@ params:
     # title: "Custom Name"
     index: false
     items:
-      - title: "Certificate in Computer Science and Software Engineering"
+      - title: "University Certificate in Computer Science and Software Engineering"
         school:
           name: "Laval University, QC, Canada"
           # url: "https://example.org"
