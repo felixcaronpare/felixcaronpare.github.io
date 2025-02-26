@@ -182,18 +182,32 @@ params:
     enable: true
     # title: "Custom Name"
     items:
-      - job: "Quebec Ministry of Transports"
+      - job: "Quebec Ministry of Transports (MTQ)"
         company: "MLOps Engineer"
         companyUrl: ""
-        date: "2022 - present"
+        date: "2024 - present"
         featuredLink:
           enable: false
           name: "View the project"
           url: "https://example.com"
         info:
           enable: false
-        content: "Developing, training, deploying and maintaining AI models, applications and APIs for the business needs of the organisation (Python, Django, various ML models, HuggingFace, Azure, Azure ML, Kubernetes). Building the CI/CD pipelines of our AI products (Azure, Git, Github, Docker)."
+        content: "Developing, training, deploying and maintaining AI models, applications and APIs for the business needs of the organisation (Python, various ML models, HuggingFace, Azure, Azure ML, Kubernetes). Building the CI/CD pipelines of our AI products (Azure, Git, Github, Docker)."
 
+      - job: "MTQ"
+        company: "Full stack developer"
+        companyUrl: ""
+        date: "2022 - 2024"
+        featuredLink:
+          enable: false
+          name: "View the project"
+          url: "https://example.com"
+        info:
+          enable: false
+        content: |- 
+          Developed full stack web applications for generative AI internal projects using Python, Django, Bootstrap, PostgreSQL and Azure AI/ML services.
+          - Developed the frontend and backend of an internal gen AI application used by HR to generate Job Posting forms, increasing the efficiency of the job posting proccess by several orders of magnitude.
+          
       - job: "SWE"
         company: "Freelance Web Developer"
         companyUrl: ""
@@ -205,7 +219,7 @@ params:
         content: |-
           - Developed a website for [VitaeComptabilite](vitaecomptabilite.com), an accounting business aimed towards serving a customer base of healthcare professionals.
 
-      - job: "Stantec Ltd., Quebec Ministry of Transports"
+      - job: "Stantec Ltd., MTQ"
         company: "Bridge Engineer"
         companyUrl: "https://example.com"
         date: "2016 - 2022"
@@ -224,7 +238,7 @@ params:
     enable: true
     # title: "Custom Name"
     items:
-      - title: Ugram
+      - title: Ugram.uk
         content: An AWS hosted single-page application similar to instagram built with industry standard technologies
         image: /images/ugram/UGram1.4501738010288294de1a.png
         # featured:
@@ -260,18 +274,17 @@ params:
             url: https://github.com/felixcaronpare/Ufood
 
       - title: Vitae Accounting Website
-        content: A website built for the accounting company "placeholder"
+        content: A website built for the accounting company "placeholder" with React, Typescript and Tailwind.
         image: /images/landscape-placeholder.svg
         featured:
           name: View website
-          link: https://github.com/felixcaronpare/Ufood
+          link: placeholder
         badges:
-          - "Frontend"
           - "Web Development"
-          - "Javascript"
-          - "VueJS"
-          - "HTML/CSS"
-          - "Google Maps Javascript API"
+          - "Freelance"
+          - "Typecript"
+          - "React"
+          - "Tailwind"
 
       # - title: Hugo Profile V2
       #   content: A clean and simple Hugo template for personal portfolio and blog.
@@ -343,9 +356,9 @@ params:
   contact:
     enable: true
     # title: "Custom Name"
-    content: My inbox is always open. Whether you have a question or just want to say hi, I’ll try my best to get back to you!
+    content:
     btnName: Mail me
-    btnLink: mailto:gurusabarisha@gmail.com
+    btnLink: mailto:felix.cp0@gmail.com
     # formspree:
     #   enable: true # `contact.email` value will be ignored
     #   formId: abcdefgh # Take it from your form's endpoint, like 'https://formspree.io/f/abcdefgh'
@@ -361,11 +374,8 @@ params:
       enable: true
       disableFeaturedImage: false
     socialNetworks:
-      github: https://github.com
-      linkedin: https://linkedin.com
-      twitter: https://twitter.com
-      instagram: https://instagram.com
-      facebook: https://facebook.com
+      github: https://github.com/felixcaronpare
+      linkedin: https://www.linkedin.com/in/felixcaronpare/
 
   # List pages like blogs and posts
   listPages:
