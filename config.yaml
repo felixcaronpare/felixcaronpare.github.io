@@ -194,6 +194,17 @@ params:
           enable: false
         content: "Developing, training, deploying and maintaining AI models, applications and APIs for the business needs of the organisation (Python, various ML models, HuggingFace, Azure, Azure ML, Kubernetes). Building the CI/CD pipelines of our AI products (Azure, Git, Github, Docker)."
 
+      - job: "SWE"
+        company: "Freelance Web Developer"
+        companyUrl: ""
+        date: "2023 - present"
+        featuredLink:
+          enable: false
+          name: "View the project"
+          url: "https://example.com"
+        content: |-
+          - Developed a website for [VitaeComptabilite](vitaecomptabilite.com), an accounting business aimed towards serving a customer base of healthcare professionals.
+
       - job: "MTQ"
         company: "Full stack developer"
         companyUrl: ""
@@ -207,17 +218,6 @@ params:
         content: |- 
           Developed full stack web applications for generative AI internal projects using Python, Django, Bootstrap, PostgreSQL and Azure AI/ML services.
           - Developed the frontend and backend of an internal gen AI application used by HR to generate Job Posting forms, increasing the efficiency of the job posting proccess by several orders of magnitude.
-          
-      - job: "SWE"
-        company: "Freelance Web Developer"
-        companyUrl: ""
-        date: "2023 - present"
-        featuredLink:
-          enable: false
-          name: "View the project"
-          url: "https://example.com"
-        content: |-
-          - Developed a website for [VitaeComptabilite](vitaecomptabilite.com), an accounting business aimed towards serving a customer base of healthcare professionals.
 
       - job: "Stantec Ltd., MTQ"
         company: "Bridge Engineer"
@@ -257,7 +257,7 @@ params:
         # links:
 
       - title: Ufood
-        content: A web application made to search and review restaurants, building a frontend and RESTful API on an existing backend and implementing google map embeds.
+        content: A web application made to search and review restaurants, built with a Vue frontend and a RESTful API on top of an existing backend and implementing google map embeds.
         image: /images/ufood/UFood1.89dd8bfdcf1ebb3f0baa.png
         featured:
           name: View the source code
