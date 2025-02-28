@@ -264,7 +264,7 @@ params:
       - title: Ufood
         content: A web application made to search and review restaurants, built with a Vue frontend and a RESTful API on top of an existing backend and implementing google map embeds.
         image: /images/ufood/UFood1.89dd8bfdcf1ebb3f0baa.png
-        url: "/project/ufood"
+        url: "/projects/ufood"
         featured:
           name: View the source code
           link: https://github.com/felixcaronpare/Ufood
@@ -282,7 +282,7 @@ params:
       - title: Vitae Accounting Website
         content: A website built for the accounting company "placeholder" with React, Typescript and Tailwind.
         image: /images/landscape-placeholder.svg
-        url: "http://placeholder.com"
+        url: "http://localhost:1313/projects/vitae/"
         featured:
           name: View website
           link: placeholder
@@ -294,7 +294,7 @@ params:
           - "React"
           - "Tailwind"
 
-      - title: Multiplayer RPG with UE5
+      - title: UE5 multiplayer RPG
         content: An Unreal Engine 5 multiplayer project with AWS hosted server-side microservice architecture written in Golang and Postgres databases. Uses gRPC/protocol buffers as communication protocol for optimization.
         image: /images/blogs/multiplayer-netcode/ht-architecture.jpg
         url: "http://localhost:1313/projects/ht/"
