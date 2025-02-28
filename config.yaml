@@ -165,7 +165,7 @@ params:
     title: "About Me"
     image: "/images/aboutme_pic.jpg"
     content: |-
-      I am a software engineer currently open for work opportunities and project collaborations. I have been doing a lot of AI/ML oriented work recently, but I love everything that is web development relate (or even game development).
+      I am a software engineer currently open for work opportunities and project collaborations. I have been doing a lot of AI/ML oriented work recently, but I love everything that is web development related (or even game development).
       <br>
       <br>
     skills:
@@ -241,7 +241,7 @@ params:
     # title: "Personal Projects"
     items:
       - title: Ugram.uk
-        content: An AWS hosted single-page application similar to instagram built with industry standard technologies
+        content: An AWS hosted single-page application similar to instagram built with modern industry standard technologies
         image: /images/ugram/UGram1.4501738010288294de1a.png
         url: "http://placeholder.com"
         # featured:
@@ -264,7 +264,7 @@ params:
       - title: Ufood
         content: A web application made to search and review restaurants, built with a Vue frontend and a RESTful API on top of an existing backend and implementing google map embeds.
         image: /images/ufood/UFood1.89dd8bfdcf1ebb3f0baa.png
-        url: "http://placeholder.com"
+        url: "/project/ufood"
         featured:
           name: View the source code
           link: https://github.com/felixcaronpare/Ufood
@@ -295,12 +295,9 @@ params:
           - "Tailwind"
 
       - title: Multiplayer RPG with UE5
-        content: An Unreal Engine 5 multiplayer project with AWS hosted server-side microservice architecture written in Golang and Postgres databases. Uses gRPC/protocol buffers.
+        content: An Unreal Engine 5 multiplayer project with AWS hosted server-side microservice architecture written in Golang and Postgres databases. Uses gRPC/protocol buffers as communication protocol for optimization.
         image: /images/blogs/multiplayer-netcode/ht-architecture.jpg
-        url: "http://placeholder.com"
-        # featured:
-        #   name: Demo
-        #   link: https://hugo-profile.netlify.app
+        url: "http://localhost:1313/projects/ht/"
         badges:
           - "Backend"
           - "Netcode"
@@ -315,20 +312,6 @@ params:
           - "Kubernetes"
           - "Agones"
         # links:
-
-      # - title: Hugo Profile V2
-      #   content: A clean and simple Hugo template for personal portfolio and blog.
-      #   image: /images/projects/profile2.jpg
-      #   featured:
-      #     name: Demo V2
-      #     link: https://hugo-profile-2.netlify.app
-      #   badges:
-      #     - "Hugo"
-      #     - "Bootstrap"
-      #     - "Javascript"
-      #   links:
-      #     - icon: fab fa-github
-      #       url: https://github.com/gurusabarish/HugoProfileV2
 
   # Achievements
   achievements:
@@ -361,26 +344,12 @@ params:
       - title: "University Certificate in Computer Science and Software Engineering"
         school:
           name: "Laval University, QC, Canada"
-          # url: "https://example.org"
         date: "2024"
         GPA: "3.93/4.33"
-        # content: |-
-        #   Extracurricular Activities
-        #     - Lorem ipsum dolor sit amet consectetur adipisicing elit.
-        #     - Tempora esse, eaque delectus nulla quo doloribus itaque expedita alias natus optio totam maxime nihil excepturi velit a animi laborum hic similique.
       - title: "Bachelor of science in civil engineering"
         school:
           name: "Laval University, QC, Canada"
-          # url: "https://example.org"
         date: "2016"
-        # GPA:
-        # content: |-
-        #   Extracurricular Activities
-        #     - Lorem ipsum dolor sit amet consectetur adipisicing elit.
-        # featuredLink:
-        #   enable: false
-        #   name: "My academic record"
-        #   url: "https://example.com"
 
   #Contact
   contact:
