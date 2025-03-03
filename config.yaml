@@ -243,7 +243,7 @@ params:
       - title: Ugram.uk
         content: An AWS hosted single-page application similar to instagram built with modern industry standard technologies
         image: /images/ugram/UGram1.4501738010288294de1a.png
-        url: "http://localhost:1313/projects/ugram/"
+        url: "/projects/ugram/"
         # featured:
         #   name: Demo
         #   link: https://hugo-profile.netlify.app
@@ -282,7 +282,7 @@ params:
       - title: Freelance - Vitae Comptabilite's Website
         content: A website built for the accounting company "placeholder" with React, Typescript and Tailwind.
         image: /images/vitae/vitae-placeholder-1.jpg
-        url: "http://localhost:1313/projects/vitae/"
+        url: "/projects/vitae/"
         featured:
           name: View website
           link: placeholder
@@ -297,7 +297,7 @@ params:
       - title: UE5 multiplayer RPG
         content: An Unreal Engine 5 multiplayer project with AWS hosted server-side microservice architecture written in Golang and PostgreSQL databases. Uses gRPC/protocol buffers as communication protocol for optimization.
         image: /images/blogs/multiplayer-netcode/ht-architecture.jpg
-        url: "http://localhost:1313/projects/ht/"
+        url: "/projects/ht/"
         badges:
           - "Backend"
           - "Netcode"
