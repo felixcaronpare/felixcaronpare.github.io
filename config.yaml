@@ -1,4 +1,4 @@
-baseURL: "http://localhost:1313/"
+baseURL: "https://felixcp.github.io"
 languageCode: "en-us"
 title: "Felix C. Programs"
 theme: hugo-profile
