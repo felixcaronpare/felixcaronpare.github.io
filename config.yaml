@@ -216,7 +216,7 @@ params:
           url: "https://example.com"
         info:
           enable: false
-        content: |- 
+        content: |-
           Developed full stack web applications for generative AI internal projects using Python, Django, Bootstrap, PostgreSQL and Azure AI/ML services.
           - Developed the frontend and backend of an internal gen AI application used by HR to generate Job Posting forms, increasing the efficiency of the job posting proccess by several orders of magnitude.
           - Developed an internal Python/AzureML application that uses visual AI (OCR) and REGEX to identify and redact protected personal information in PDFs, Words and scanned documents.
@@ -230,10 +230,10 @@ params:
           name: "View the project"
           url: "https://example.com"
         content: |-
-          I worked in bridge engineering for 2 years at Stantec Ltd. (Jr. Eng.) and 5 years at the Quebec Ministry of Transports, where I first became intereted in building software to solve complicated engineering problems :
+          I worked in bridge engineering for 7 years where I first became interested in building software to solve complicated engineering problems :
           - Co-Developed a Python data visualition tool for the corrosion of the Pierre-Laporte Bridge (longest suspension bridge in Canada) main cables.
-          - Programmed engineering worksheets to compute the load bearing capacity of over 15 crutical bridges.
-          - Worked as a site supervising junior engineer on one of the largest canadian infrastructure projects ever -- the construction of the New Champlain Bridge.
+          - Programmed engineering worksheets to compute the load bearing capacity of over 15 critical bridges.
+          - Worked as a site supervising junior engineer on one of the largest canadian infrastructure projects -- the construction of the New Champlain Bridge.
 
   # projects
   projects:
