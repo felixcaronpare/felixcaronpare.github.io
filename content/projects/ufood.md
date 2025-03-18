@@ -34,10 +34,10 @@ This project is a restaurant searching and reviewing social media application. I
       <img class="d-block w-100 carousel-img" src="/images/ufood/UFood1.89dd8bfdcf1ebb3f0baa.png" alt="Second slide">
     </div>
     <div class="carousel-item">
-      <img class="d-block w-100 carousel-img" src="/images/ufood/ufood3.jpg" alt="Third slide">
+      <img class="d-block w-100 carousel-img" src="/images/ufood/ufood3.JPG" alt="Third slide">
     </div>
     <div class="carousel-item">
-      <img class="d-block w-100 carousel-img" src="/images/ufood/ufood4.jpg" alt="fourth slide">
+      <img class="d-block w-100 carousel-img" src="/images/ufood/ufood4.JPG" alt="fourth slide">
     </div>
   </div>
   <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide="prev">
