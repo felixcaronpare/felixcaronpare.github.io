@@ -8,22 +8,24 @@ github_link: "https://github.com/felixcaronpare"
 author: "Felix"
 list: never
 tags:
-    - "Full stack"
-    - "Backend"
-    - "Frontend"
-    - "Web Development"
-    - "React"
-    - "Typescript"
-    - "NodeJS"
-    - "PostgreSQL"
-    - "AWS"
-    - "Docker"
-    - "Github Actions"
-    - "Jest"
+  - "Full stack"
+  - "Backend"
+  - "Frontend"
+  - "Web Development"
+  - "React"
+  - "Typescript"
+  - "NodeJS"
+  - "PostgreSQL"
+  - "AWS"
+  - "Docker"
+  - "Github Actions"
+  - "Jest"
 ---
+
 Ugram is a content sharing web application like Instagram. It is a full-stack project that uses modern industry standard technologies. Ugram was built as a group project for an advanced web development course. My personal contribution to the project was that of a full-stack developer, where I end-to-end programmed functionalities such as account management, hashtag implementation, content recommendation algorithms, and more. I implemented all logic for these features: React frontend, RESTful API and documentation, NodeJS backend, and database interaction through NestJS's ORM. Last but not least, I contributed to and reviewed the code of my peers on multiple other aspects of the project.
 
 The project was built with a robust stack meant to reflect what is expected from a modern web applications:
+
 - Typescript + React frontend ();
 - Typescript + NodeJS backend (monolithic architecture, uses NestJS too);
 - PostgreSQL database;
@@ -45,7 +47,7 @@ As of today, the project is no longer online.
   </ol>
   <div class="carousel-inner">
     <div class="carousel-item active">
-      <img class="d-block w-100 carousel-img" src="/images/ugram/ugram3.jpg" alt="First slide">
+      <img class="d-block w-100 carousel-img" src="/images/ugram/ugram3.JPG" alt="First slide">
     </div>
     <div class="carousel-item">
       <img class="d-block w-100 carousel-img" src="/images/ugram/UGram1.4501738010288294de1a.png" alt="Second slide">
@@ -54,10 +56,10 @@ As of today, the project is no longer online.
       <img class="d-block w-100 carousel-img" src="/images/ugram/ugram2.jpg" alt="Third slide">
     </div>
     <div class="carousel-item">
-      <img class="d-block w-100 carousel-img" src="/images/ugram/ugram4.jpg" alt="fourth slide">
+      <img class="d-block w-100 carousel-img" src="/images/ugram/ugram4.JPG" alt="fourth slide">
     </div>
     <div class="carousel-item">
-      <img class="d-block w-100 carousel-img" src="/images/ugram/ugram5.jpg" alt="fourth slide">
+      <img class="d-block w-100 carousel-img" src="/images/ugram/ugram5.JPG" alt="fourth slide">
     </div>
   </div>
   <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide="prev">
