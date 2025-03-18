@@ -8,13 +8,14 @@ github_link: "https://github.com/felixcaronpare"
 author: "Felix"
 list: never
 tags:
-    - "Frontend"
-    - "Web Development"
-    - "Javascript"
-    - "VueJS"
-    - "HTML/CSS"
-    - "Google Maps Javascript API"
+  - "Frontend"
+  - "Web Development"
+  - "Javascript"
+  - "VueJS"
+  - "HTML/CSS"
+  - "Google Maps Javascript API"
 ---
+
 This project is a restaurant searching and reviewing social media application. It has an authentification token system that uses OAuth, a landing page that fetches all relevant data from the [provided database](https://github.com/GLO3102/UFood?tab=readme-ov-file) from the project specifications with a custom-built API, Google Maps imbeds to allow users to search for nearby restaurants and get directions, and many more features.
 
 <!-- Bootstrap Carousel HTML -->
@@ -27,16 +28,16 @@ This project is a restaurant searching and reviewing social media application. I
   </ol>
   <div class="carousel-inner">
     <div class="carousel-item active">
-      <img class="d-block w-100 carousel-img" src="/images/ufood/uFood1.png" alt="First slide">
+      <img class="d-block w-100 carousel-img" src="/images/ufood/ufood1.png" alt="First slide">
     </div>
     <div class="carousel-item">
       <img class="d-block w-100 carousel-img" src="/images/ufood/UFood1.89dd8bfdcf1ebb3f0baa.png" alt="Second slide">
     </div>
     <div class="carousel-item">
-      <img class="d-block w-100 carousel-img" src="/images/ufood/uFood3.jpg" alt="Third slide">
+      <img class="d-block w-100 carousel-img" src="/images/ufood/ufood3.jpg" alt="Third slide">
     </div>
     <div class="carousel-item">
-      <img class="d-block w-100 carousel-img" src="/images/ufood/uFood4.jpg" alt="fourth slide">
+      <img class="d-block w-100 carousel-img" src="/images/ufood/ufood4.jpg" alt="fourth slide">
     </div>
   </div>
   <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide="prev">
@@ -50,6 +51,7 @@ This project is a restaurant searching and reviewing social media application. I
 </div>
 
 The project was built with a simpler stack of technologies, as the requirements were not too complex and the project was meant as an introduction to web application development:
+
 - Javacript;
 - VueJS as the frontend development framework;
 - Vuetify as the visual framework;
