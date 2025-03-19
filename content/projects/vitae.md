@@ -43,7 +43,7 @@ tags:
       <img class="d-block w-100 carousel-img" src="/images/vitae/vitae-5.png" alt="fourth slide">
     </div>
     <div class="carousel-item">
-      <img class="d-block h-100 carousel-img" src="/images/vitae/vitae-6.png" alt="fourth slide">
+      <img class="d-block w-100 carousel-img" src="/images/vitae/vitae-6.png" alt="fourth slide">
     </div>
   </div>
   <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide="prev">
