@@ -153,8 +153,8 @@ params:
           url: https://github.com/felixcaronpare
         - icon: fab fa-linkedin
           url: https://www.linkedin.com/in/felixcaronpare/
-        - icon: fab fa-medium-m
-          url: https://medium.com/@felix.cp0
+        # - icon: fab fa-medium-m
+        #   url: https://medium.com/@felix.cp0
       # customIcons:
       #   - icon: /fav.png
       #     url: "https://example.com"
