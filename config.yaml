@@ -204,7 +204,7 @@ params:
           url: "https://example.com"
         content: |-
           Developping websites and web applications as a solo freelance full stack developer:
-          - Developed a website for [VitaeComptabilite](vitaecomptabilite.com), an accounting business aimed towards serving a customer base of healthcare professionals.
+          - Developed a website for [VitaeComptabilite](vitaecomptabilite-alpha.netlify.app), an accounting business aimed towards serving a customer base of healthcare professionals.
 
       - job: "MTQ"
         company: "Full stack engineer"
@@ -240,6 +240,39 @@ params:
     enable: true
     # title: "Personal Projects"
     items:
+      - title: Freelance - Vitae Comptabilite's Website
+        content: A website built for the accounting company "placeholder" with React, Typescript and Tailwind.
+        image: /images/vitae/vitae-1.png
+        url: "/projects/vitae/"
+        featured:
+          name: View website
+          link: placeholder
+        badges:
+          - "Frontend"
+          - "Web Development"
+          - "Freelance"
+          - "Typecript"
+          - "React"
+          - "Tailwind"
+
+      - title: Ufood
+        content: A web application made to search and review restaurants, built with a Vue frontend and a RESTful API on top of an existing backend and implementing google map embeds.
+        image: /images/ufood/UFood1.89dd8bfdcf1ebb3f0baa.png
+        url: "/projects/ufood"
+        featured:
+          name: View the source code
+          link: https://github.com/felixcaronpare/Ufood
+        badges:
+          - "Frontend"
+          - "Web Development"
+          - "Javascript"
+          - "VueJS"
+          - "HTML/CSS"
+          - "Google Maps Javascript API"
+        links:
+          - icon: fab fa-github
+            url: https://github.com/felixcaronpare/Ufood
+
       - title: Ugram.uk
         content: An AWS hosted single-page application similar to instagram built with modern industry standard technologies
         image: /images/ugram/UGram1.4501738010288294de1a.png
@@ -260,39 +293,6 @@ params:
           - "Docker"
           - "Github Actions"
         # links:
-
-      - title: Ufood
-        content: A web application made to search and review restaurants, built with a Vue frontend and a RESTful API on top of an existing backend and implementing google map embeds.
-        image: /images/ufood/UFood1.89dd8bfdcf1ebb3f0baa.png
-        url: "/projects/ufood"
-        featured:
-          name: View the source code
-          link: https://github.com/felixcaronpare/Ufood
-        badges:
-          - "Frontend"
-          - "Web Development"
-          - "Javascript"
-          - "VueJS"
-          - "HTML/CSS"
-          - "Google Maps Javascript API"
-        links:
-          - icon: fab fa-github
-            url: https://github.com/felixcaronpare/Ufood
-
-      - title: Freelance - Vitae Comptabilite's Website
-        content: A website built for the accounting company "placeholder" with React, Typescript and Tailwind.
-        image: /images/vitae/vitae-placeholder-1.jpg
-        url: "/projects/vitae/"
-        featured:
-          name: View website
-          link: placeholder
-        badges:
-          - "Frontend"
-          - "Web Development"
-          - "Freelance"
-          - "Typecript"
-          - "React"
-          - "Tailwind"
 
       - title: UE5 multiplayer RPG
         content: An Unreal Engine 5 multiplayer project with AWS hosted server-side microservice architecture written in Golang and PostgreSQL databases. Uses gRPC/protocol buffers as communication protocol for optimization.
