@@ -23,6 +23,8 @@ tags:
     <li data-bs-target="#carouselExampleIndicators" data-bs-slide-to="1"></li>
     <li data-bs-target="#carouselExampleIndicators" data-bs-slide-to="2"></li>
     <li data-bs-target="#carouselExampleIndicators" data-bs-slide-to="3"></li>
+    <li data-bs-target="#carouselExampleIndicators" data-bs-slide-to="4"></li>
+    <li data-bs-target="#carouselExampleIndicators" data-bs-slide-to="5"></li>
   </ol>
   <div class="carousel-inner">
     <div class="carousel-item active">
@@ -41,7 +43,7 @@ tags:
       <img class="d-block w-100 carousel-img" src="/images/vitae/vitae-5.png" alt="fourth slide">
     </div>
     <div class="carousel-item">
-      <img class="d-block w-100 carousel-img" src="/images/vitae/vitae-6.png" alt="fourth slide">
+      <img class="d-block h-100 carousel-img" src="/images/vitae/vitae-6.png" alt="fourth slide">
     </div>
   </div>
   <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide="prev">
