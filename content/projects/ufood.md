@@ -57,7 +57,7 @@ The project was built with a simpler stack of technologies, as the requirements 
 - Vuetify as the visual framework;
 - Google Maps Javascript API for map embeds.
 
-Although the project is not hosted online anymore, you can [**view the source code of the project here**](placeholder).
+Although the project is not hosted online anymore, you can [**view the source code of the project here**](https://github.com/felixcaronpare/Ufood).
 
 <hr>
 

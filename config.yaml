@@ -241,7 +241,7 @@ params:
     # title: "Personal Projects"
     items:
       - title: Freelance - Vitae Comptabilite's Website
-        content: A website built for the accounting company "placeholder" with React, Typescript and Tailwind.
+        content: A website built for the accounting company Vitae Comptabilite with React, Typescript, Vite and Tailwind.
         image: /images/vitae/vitae-1.png
         url: "/projects/vitae/"
         featured:

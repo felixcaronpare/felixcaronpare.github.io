@@ -20,7 +20,7 @@ tags:
   - Kubernetes
 ---
 
-In this project, I use the medium of online game development to learn more advanced server-side and netcode programming. As explained in my [**first blog post**](placeholder) about this project, web development and multiplayer game development have a lot in common. In fact, the whole backend of an online RPG can be made in a similar fashion to a web application, except that it interacts with a client that's on a graphics rendering engine instead of a web browser.
+In this project, I use the medium of online game development to learn more advanced server-side and netcode programming. As explained in my [**first blog post**](https://felixcaronpare.github.io/blogs/multiplayer-netcode/) about this project, web development and multiplayer game development have a lot in common. In fact, the whole backend of an online RPG can be made in a similar fashion to a web application, except that it interacts with a client that's on a graphics rendering engine instead of a web browser.
 
 <!-- Bootstrap Carousel HTML -->
 <div id="carouselExampleIndicators" class="carousel slide pb-4" data-bs-ride="carousel">
@@ -51,6 +51,7 @@ In this project, I use the medium of online game development to learn more advan
 </div>
 
 With that in mind, I am using this project to teach myself new architectural paradigms and specific technologies that I have been wanting to explore:
+
 - Microservices backend architecture;
 - Golang as the main backend development language;
 - Protocol buffers as communication protocol facilitated by the [gRPC](https://grpc.io/about/) framework;
@@ -58,7 +59,7 @@ With that in mind, I am using this project to teach myself new architectural par
 - Docker and kubernetes for deployment and orchestration, facilitated by the [Agones](https://agones.dev/site/docs/) framework;
 - AWS deployment of services, API gateways and Lambda Functions.
 
-[**See my blog post to learn more**](placeholder) about how learning multiplayer paradigms can help you become a better web developer.
+[**See my blog post to learn more**](https://felixcaronpare.github.io/blogs/multiplayer-netcode/) about how learning multiplayer paradigms can help you become a better web developer.
 
 <hr>
 
