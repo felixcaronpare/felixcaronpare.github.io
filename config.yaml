@@ -144,7 +144,7 @@ params:
     button:
       enable: true
       name: "Resume"
-      url: "#"
+      url: "/FelixCaronPare_Resume.pdf"
       download: true
       newPage: false
     socialLinks:
