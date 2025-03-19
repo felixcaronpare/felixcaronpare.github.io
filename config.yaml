@@ -246,7 +246,7 @@ params:
         url: "/projects/vitae/"
         featured:
           name: View website
-          link: placeholder
+          link: https://vitaecomptabilite-alpha.netlify.app
         badges:
           - "Frontend"
           - "Web Development"
