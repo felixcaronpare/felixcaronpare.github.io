@@ -69,6 +69,12 @@ To achieve this, I developed their website with a minimal stack of technologies 
 
 The above stack allowed me to have a smooth and simple development experience which resulted in a beautiful and lightning fast website that was succesfully delivered ahead of schedule.
 
+<!-- ===== placeholder ===== -->
+
+Do note that the client hasn't dropped in their text content yet, so it's all still Lorem Ipsums and at a placeholder domain name until then !
+
+<!-- =============== -->
+
 [**Feel free to visit Vitae Comptabilite's website, the end result of this project.**](https://vitaecomptabilite-alpha.netlify.app/)
 
 <hr>
