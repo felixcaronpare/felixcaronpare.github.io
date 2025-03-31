@@ -71,7 +71,7 @@ The above stack allowed me to have a smooth and simple development experience wh
 
 <!-- ===== placeholder ===== -->
 
-Do note that the client hasn't dropped in their text content yet, so it's all still Lorem Ipsums and at a placeholder domain name until then !
+Do note that the client hasn't dropped in their text content yet, so it's all still Lorem Ipsums everywhere, and the website is hosted on a placeholder domain name until the content gets dropped.
 
 <!-- =============== -->
 
