@@ -192,7 +192,7 @@ params:
           url: "https://example.com"
         info:
           enable: false
-        content: "Developing, training, deploying and maintaining AI models, applications and APIs for the business needs of the organisation (Python, various ML models, HuggingFace, Azure, Azure ML, Kubernetes). Building the CI/CD pipelines of our AI products (Azure, Git, Github, Docker)."
+        content: "Developing, training, deploying and maintaining AI models, applications and APIs for the business needs of the organisation (Python, various ML models, HuggingFace, Azure, Azure ML, Kubernetes). Building the CI/CD pipelines of our AI products (Azure, Git, Github Actions, Docker)."
 
       - job: "SWE"
         company: "Freelance Web Developer"
