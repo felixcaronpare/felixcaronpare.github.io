@@ -136,7 +136,7 @@ params:
     intro: "Hi, my name is"
     title: "Felix"
     subtitle: "I build tech and I love it"
-    content: "DevOps, Web development, cloud-native infrastructure, AI/MLOps, etc. -- If I'm engaged in complicated challenges involving modern technologies, I'm in my comfort zone. Open for work opportunities -- feel free to reach out on [LinkedIn](https://www.linkedin.com/in/felixcaronpare/)."
+    content: "DevOps, cloud-native infrastructure, Web development, AI/MLOps, etc. -- If I'm engaged in complicated challenges involving modern technologies, I'm in my comfort zone. Open for work opportunities -- feel free to reach out on [LinkedIn](https://www.linkedin.com/in/felixcaronpare/)."
     image: /images/hero_pic.jpg
     bottomImage:
       enable: false
