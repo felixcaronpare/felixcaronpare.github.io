@@ -12,7 +12,7 @@ tags:
   - CI/CD
 image: /images/blogs/how-i-made-this-site/head-image.jpg
 description: ""
-toc: 
+toc:
 ---
 
 **Keep it simple, stupid**
@@ -29,6 +29,6 @@ While Hugo has its own quirks and takes a bit of time to get used to, this has b
 
 Using this theme has allowed me to focus on the content of the portfolio while spending minimal time on its UI/UX. Of course the interface wasn't 100% to my liking and required tweaks, but having such a complete base theme instead of a white page helped save a lot of time.
 
-It also integrates beautifully with Github Actions to do the Hugo generations of the files that is necessary for CI/CD purposes.
+It also integrates beautifully with Github Actions to do the Hugo generations of the files that is necessary for CI/CD purposes, making this a very easy website to maintain.
 
 <hr>
