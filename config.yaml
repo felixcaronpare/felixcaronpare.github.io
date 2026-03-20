@@ -136,7 +136,7 @@ params:
     intro: "Hi, my name is"
     title: "Felix"
     subtitle: "I build tech and I love it"
-    content: "DevOps, cloud-native infrastructure, Web development, AI/MLOps, etc. -- If I'm engaged in complicated challenges involving modern technologies, I'm in my comfort zone. Open for work opportunities -- feel free to reach out on [LinkedIn](https://www.linkedin.com/in/felixcaronpare/)."
+    content: "AI Engineering, cloud-native infrastructure, Web development, DevOps, LLMOps/MLOps, etc. -- If I'm engaged in complicated challenges involving modern technologies, I'm in my comfort zone. Open for work opportunities -- feel free to reach out on [LinkedIn](https://www.linkedin.com/in/felixcaronpare/)."
     image: /images/hero_pic.jpg
     bottomImage:
       enable: false
@@ -165,17 +165,17 @@ params:
     title: "About Me"
     image: "/images/aboutme_pic.jpg"
     content: |-
-      I am a software engineer currently open for work opportunities and project collaborations. I have been doing a lot of AI/ML oriented work recently, but I love everything that is web development related (or even game development).
+      I am a software engineer currently open for work opportunities and project collaborations. I have been doing a lot of AI/ML oriented work recently, but I love everything that is technology related to be honest.
       <br>
       <br>
     skills:
       enable: true
       title: "Here are a few of the technologies that I have enjoyed working with recently:"
       items:
-        - "**Cloud infrastructure**: Docker, Kubernetes, Terraform, AWS, Azure"
-        - "**AI/MLOps**: Python, Azure ML, Tensorflow, MLflow"
+        - "**AI engineering**: Python, Azure, MCP, RAG, Fine-tuning, eval pipelines, Tensorflow, Pytorch"
+        - "**Cloud infrastructure**: Docker, Kubernetes, Terraform, Azure, GCP, AWS"
         - "**Frontend** : React, Vue, Typescript, Django/Python"
-        - "**Backend** : Node.JS, Golang, gRPC/protocol buffers"
+        - "**Backend** : Python, Go (Golang), gRPC, protobuffs, Node.JS "
 
   # Experience
   experience:
