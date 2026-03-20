@@ -17,7 +17,7 @@ toc: true
 
 ## Building TexWorker: A Stateless LaTeX Microservice
 
-As I was building out the resume generation feature for my SaaS [Resume Garden](https://resumegarden.app), I was extremely surprised to find out that it is actually really hard to find any good, cheap and easy to use LaTeX compilation public API. Thus started my quest to conquer the beast that is LaTeX, toss it in a container, and hope I my mental health survives along the way.
+As I was building out the resume generation feature for my SaaS [Resume Garden](https://resumegarden.app), I was extremely surprised to find out that it is actually really hard to find any good, cheap and easy to use LaTeX compilation public API. Thus started my quest to conquer the beast that is LaTeX, toss it in a container, and hope my mental health survives along the way.
 
 While LaTeX is undoubtedly the gold standard for high-quality document typesetting, it comes with a baggage of dependencies and caviats that make it kind of a pain to set up and use in a production environment.
 
